@@ -18,6 +18,7 @@ Dynamic:
 5. (How the fee is managed?)
 
 
+
 +LikeRegistry::
     @audit L-15: profileNFT is public so can be called from an external contract
     @audit L-17: FIXEDFEE must be constant not immutable
